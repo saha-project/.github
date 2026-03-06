@@ -12,6 +12,8 @@ The SAHA project brings together spatial transcriptomics, proteomics, histology,
 
 ## Key Repositories and Data
 
+** currently waiting for a manuscript acceptance for a full release, but want you can access today: ** 
+
 For project overviews, interactive figures, and publications, visit our site: [https://saha-project.org](https://saha-project.org). 
 
 All datasets are available through our website or directly via [Zenodo](https://zenodo.org/communities/saha-project)
@@ -28,7 +30,7 @@ For a full list, browse the [organization repositories](https://github.com/saha-
 
 Our work is available as a preprint:
 
-> [The Spatial Atlas of Human Anatomy (SAHA)](https://www.biorxiv.org/content/10.1101/2025.06.16.658716v2)  
+> [The Spatial Atlas of Human Anatomy (SAHA)](https://www.biorxiv.org/content/10.1101/2025.06.16.658716v3)  
 > *bioRxiv*, 2025. In peer review.
 
 Stay tuned for updates when the manuscript is accepted.
@@ -42,7 +44,7 @@ File issues or pull requests in relevant repositories
 
 ## License
 
-Code in SAHA repositories is generally licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), and data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Check individual repositories for specifics.
+Code in SAHA repositories is generally licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), and data under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en). Check individual repositories for specifics.
 
 ---
 *Maintained by the SAHA Consortium.*
