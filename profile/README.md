@@ -44,7 +44,7 @@ File issues or pull requests in relevant repositories
 
 ## License
 
-Code in SAHA repositories is generally licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), and data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Controlled-tier data require a signed Data Use Agreement. Check individual repositories for specifics.
+Code in SAHA repositories is generally licensed under the [MIT License](https://opensource.org/license/mit), and data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Controlled-tier data require a signed Data Use Agreement. Check individual repositories for specifics.
 
 ---
 *Maintained by the SAHA Consortium.*
